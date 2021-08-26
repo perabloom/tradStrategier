@@ -1,0 +1,22 @@
+{"type": "quote", "symbol": "AMC", "bid": 33.65, "bidsz": 13, "bidexch": "K", "biddate": "1628255256000", "ask": 33.66, "asksz": 3, "askexch": "Q", "askdate": "1628255259000"}
+{"type": "timesale", "symbol": "AMC", "exch": "K", "bid": "33.65", "ask": "33.66", "last": "33.65", "size": "100", "date": "1628255264961"}
+{"type": "timesale", "symbol": "AMC", "exch": "K", "bid": "33.65", "ask": "33.66", "last": "33.65", "size": "100", "date": "1628255264961"}
+{"type": "quote", "symbol": "AMC", "bid": 33.65, "bidsz": 10, "bidexch": "K", "biddate": "1628255264000", "ask": 33.66, "asksz": 4, "askexch": "Q", "askdate": "1628255264000"}
+{"type": "timesale", "symbol": "AMC", "exch": "D", "bid": "33.65", "ask": "33.66", "last": "33.66", "size": "1000", "date": "1628255264991"}
+{"type": "timesale", "symbol": "AMC", "exch": "K", "bid": "33.65", "ask": "33.66", "last": "33.65", "size": "100", "date": "1628255265029"}
+{"type": "timesale", "symbol": "AMC", "exch": "D", "bid": "33.65", "ask": "33.66", "last": "33.65", "size": "200", "date": "1628255265033"}
+{"type": "timesale", "symbol": "AMC", "exch": "K", "bid": "33.65", "ask": "33.66", "last": "33.65", "size": "100", "date": "1628255265060"}
+{"type": "quote", "symbol": "AMC", "bid": 33.65, "bidsz": 8, "bidexch": "K", "biddate": "1628255265000", "ask": 33.66, "asksz": 4, "askexch": "Q", "askdate": "1628255264000"}
+{"type": "timesale", "symbol": "AMC", "exch": "K", "bid": "33.65", "ask": "33.66", "last": "33.65", "size": "100", "date": "1628255265121"}
+{"type": "quote", "symbol": "AMC", "bid": 33.65, "bidsz": 7, "bidexch": "K", "biddate": "1628255265000", "ask": 33.66, "asksz": 4, "askexch": "Q", "askdate": "1628255264000"}
+{"type": "timesale", "symbol": "AMC", "exch": "D", "bid": "33.65", "ask": "33.66", "last": "33.65", "size": "200", "date": "1628255265187"}
+{"type": "timesale", "symbol": "AMC", "exch": "K", "bid": "33.65", "ask": "33.66", "last": "33.65", "size": "772", "date": "1628255265252"}
+{"type": "timesale", "symbol": "AMC", "exch": "Q", "bid": "33.65", "ask": "33.66", "last": "33.65", "size": "235", "date": "1628255265252"}
+{"type": "quote", "symbol": "AMC", "bid": 33.62, "bidsz": 2, "bidexch": "Q", "biddate": "1628255265000", "ask": 33.66, "asksz": 4, "askexch": "Q", "askdate": "1628255264000"}
+{"type": "quote", "symbol": "AMC", "bid": 33.62, "bidsz": 2, "bidexch": "Q", "biddate": "1628255265000", "ask": 33.65, "asksz": 2, "askexch": "P", "askdate": "1628255266000"}
+{"type": "quote", "symbol": "AMC", "bid": 33.62, "bidsz": 2, "bidexch": "Q", "biddate": "1628255265000", "ask": 33.65, "asksz": 4, "askexch": "P", "askdate": "1628255269000"}
+{"type": "quote", "symbol": "AMC", "bid": 33.62, "bidsz": 2, "bidexch": "Q", "biddate": "1628255265000", "ask": 33.65, "asksz": 2, "askexch": "Q", "askdate": "1628255270000"}
+{"type": "quote", "symbol": "AMC", "bid": 33.61, "bidsz": 8, "bidexch": "P", "biddate": "1628255333000", "ask": 33.64, "asksz": 2, "askexch": "K", "askdate": "1628255333000"}
+{"type": "quote", "symbol": "AMC", "bid": 33.61, "bidsz": 7, "bidexch": "P", "biddate": "1628255335000", "ask": 33.64, "asksz": 2, "askexch": "K", "askdate": "1628255333000"}
+{"type": "quote", "symbol": "AMC", "bid": 33.6, "bidsz": 6, "bidexch": "K", "biddate": "1628255335000", "ask": 33.64, "asksz": 2, "askexch": "K", "askdate": "1628255333000"}
+{"type": "timesale", "symbol": "AMC", "exch": "D", "bid": "33.6", "ask": "33.64", "last": "33.6", "size": "100", "date": "1628255336348"}
